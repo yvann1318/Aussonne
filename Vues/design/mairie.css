@@ -1,0 +1,31 @@
+.bleu
+{
+	background-color : #66A9B1;
+	height : 15%;
+	text-align : center;
+}
+
+.menu
+{
+	background-color : #FBFCB0;
+	height : 10%;
+}
+.infosComplementaires
+{
+	background-color : #C3CBC5;
+	
+}
+
+.partieCentrale
+{
+	background-color : #F9CB37;
+	height : 70%;
+	font-size : 12px;
+}
+.adherent, tr
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
